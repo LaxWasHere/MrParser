@@ -1,0 +1,7 @@
+host: 'irc.spi.gt'
+port: 6667
+username: 'MrParser'
+password: 'Parsingissobloodyfun'
+channels:
+  - '#hell'
+  - '#spigot'
